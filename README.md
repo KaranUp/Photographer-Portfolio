@@ -1,7 +1,7 @@
 # Portfolio of Professional Photographer : **Cris Paul**
 * *This is an eye-catching totally responsive portfolio website with animations for a professional photographer, Cris Paul.*
 ## Webste Link 
-* [CrisPaul Portfolio](https://03karan30.github.io/photographer_portfolio-CrisPaul/)
+* [CrisPaul Portfolio](https://karanup.github.io/Photographer-Portfolio/)
 
 
 ## A responsive personal portfolio website using HTML, CSS & JavaScript
@@ -16,4 +16,4 @@
 ![Project thumbnail](./thumbnail.png)
 
 ## Developer
-* **Karan Pandey** : [03Karan30](https://github.com/03Karan30)
+* **Karan Pandey** : [KaranUp](https://github.com/KaranUp)
